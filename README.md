@@ -1,2 +1,2 @@
-# Prime-number-
+# Prime-number
 prime number or not?
